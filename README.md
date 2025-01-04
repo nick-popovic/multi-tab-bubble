@@ -1,4 +1,4 @@
-```note: I probably wont be maintaining this project as I've consolidated it as a custom 'bubble' that can be found [here](https://github.com/nick-popovic/custom-bubbles/tree/main/multiTab)```
+# **NOTE: I probably wont be maintaining this project as I've consolidated it as a custom 'bubble' that can be found [here](https://github.com/nick-popovic/custom-bubbles/tree/main/multiTab)**
 
 # Bubble Tea Tabs Component
 
