@@ -1,3 +1,5 @@
+```note: I probably wont be maintaining this project as I've consolidated it as a custom 'bubble' that can be found [here](https://github.com/nick-popovic/custom-bubbles/tree/main/multiTab)```
+
 # Bubble Tea Tabs Component
 
 A modular approach to build a tabbed interface using the [Bubble Tea](https://github.com/charmbracelet/bubbletea) framework.
